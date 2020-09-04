@@ -1,4 +1,4 @@
-.google {
+/* .google {
     height: 0;
     overflow: hidden;
     padding-top: 70%;
@@ -10,4 +10,9 @@
     top: 0;
     height: 100%;
     width: 100%;
+    } */
+img {
+    width:100%;
+    max-width: 100%;
+    height: auto;
     }
